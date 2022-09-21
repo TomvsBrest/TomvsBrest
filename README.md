@@ -17,7 +17,7 @@ Indie front-end developer.
 
 ### 📊 Stats
 
-![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomvsBrest&show_icons=true&theme=gruvbox)
+![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomvsBrest&show_icons=true&theme=dark)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
